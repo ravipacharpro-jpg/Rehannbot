@@ -13,7 +13,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # Configuration from environment variables
-BOT_TOKEN = os.environ.get("8768132611:AAHSt87lbN-2RC4T7ggDeLzccDKpkzF9-Vg")
+BOT_TOKEN = os.environ.get("8517735580:AAEqQVoMQIG0SNX3XIjCw0DBEp5H4mpkiU4")
 OWNER_ID = int(os.environ.get("7310228945", 0))
 
 # Database setup
